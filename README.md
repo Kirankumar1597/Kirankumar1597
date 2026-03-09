@@ -7,10 +7,10 @@ Electrical and Computer Engineer
 I am currently looking for employment opportunities in the field of embedded systems, machine learning, and data science.
 
 * 🌍  I'm based in Fort Collins, Colorado, USA
-* 🖥️  See my portfolio at [Portfolio](http://rkirankumar.pythonanywhere.com/)
 * ✉️  You can contact me at [kirankumar9736@gmail.com](mailto:kirankumar9736@gmail.com)
 * 🚀  I'm currently working on [developing new skills](http://www.youtube.com/@freecodecamp)
-* 🧠  I'm learning DevOps
+* 🧠  I'm learning advanced AI/ML concepts
+* ☁️  I'm interested in exploring cloud-based platforms
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm an endurance athlete
 
