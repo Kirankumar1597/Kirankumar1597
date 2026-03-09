@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electrical and Computer Engineer
 --------------------------------
 
-I am currently looking for employment opportunities in the field of embedded systems, machine learning, and data science.
+I am currently pursuing a doctoral degree in computer engineering, and my research topic is anomaly detection using advanced ML algorithms for autonomous vehicle security.
+
+I am actively seeking internship opportunities in Artificial Intelligence and Machine Learning roles.
 
 * 🌍  I'm based in Fort Collins, Colorado, USA
 * ✉️  You can contact me at [kirankumar9736@gmail.com](mailto:kirankumar9736@gmail.com)
