@@ -9,7 +9,7 @@ I am currently pursuing a doctoral degree in computer engineering, and my resear
 I am actively seeking internship opportunities in Artificial Intelligence and Machine Learning roles.
 
 * 🌍  I'm based in Fort Collins, Colorado, USA
-* ✉️  You can contact me at [kirankumar9736@gmail.com](mailto:kirankumar9736@gmail.com)
+* ✉️  You can contact me at [kirankumar.raveendiran@colostate.edu](mailto:kirankumar.raveendiran@colostate.edu)
 * 🚀  I'm currently working on [developing new skills](http://www.youtube.com/@freecodecamp)
 * 🧠  I'm learning advanced AI/ML concepts
 * ☁️  I'm interested in exploring cloud-based platforms
